@@ -1,0 +1,8 @@
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.pdb
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe.CodeAnalysisLog.xml
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintMyName\bin\Debug\PrintMyName.exe.lastcodeanalysissucceeded
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.csprojResolveAssemblyReference.cache
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\PrintMyName\obj\Debug\PrintMyName.pdb

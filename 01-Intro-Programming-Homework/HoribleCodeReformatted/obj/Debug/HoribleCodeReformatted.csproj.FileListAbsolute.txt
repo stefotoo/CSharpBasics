@@ -1,0 +1,5 @@
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HoribleCodeReformatted\bin\Debug\HoribleCodeReformatted.exe.config
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HoribleCodeReformatted\bin\Debug\HoribleCodeReformatted.exe
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HoribleCodeReformatted\bin\Debug\HoribleCodeReformatted.pdb
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HoribleCodeReformatted\obj\Debug\HoribleCodeReformatted.exe
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HoribleCodeReformatted\obj\Debug\HoribleCodeReformatted.pdb

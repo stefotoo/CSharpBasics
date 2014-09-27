@@ -1,0 +1,5 @@
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\VariableInHexadecimal\bin\Debug\VariableInHexadecimal.exe.config
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\VariableInHexadecimal\bin\Debug\VariableInHexadecimal.exe
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\VariableInHexadecimal\bin\Debug\VariableInHexadecimal.pdb
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\VariableInHexadecimal\obj\Debug\VariableInHexadecimal.exe
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\VariableInHexadecimal\obj\Debug\VariableInHexadecimal.pdb

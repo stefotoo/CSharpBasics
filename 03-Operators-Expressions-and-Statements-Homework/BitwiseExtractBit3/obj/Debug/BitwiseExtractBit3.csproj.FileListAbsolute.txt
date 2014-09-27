@@ -1,0 +1,6 @@
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\BitwiseExtractBit3\bin\Debug\BitwiseExtractBit3.exe.config
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\BitwiseExtractBit3\bin\Debug\BitwiseExtractBit3.exe
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\BitwiseExtractBit3\bin\Debug\BitwiseExtractBit3.pdb
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\BitwiseExtractBit3\obj\Debug\BitwiseExtractBit3.exe
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\BitwiseExtractBit3\obj\Debug\BitwiseExtractBit3.pdb
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\BitwiseExtractBit3\obj\Debug\BitwiseExtractBit3.csprojResolveAssemblyReference.cache

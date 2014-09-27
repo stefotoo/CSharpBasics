@@ -1,0 +1,6 @@
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\BitsExchange\bin\Debug\BitsExchange.exe.config
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\BitsExchange\bin\Debug\BitsExchange.exe
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\BitsExchange\bin\Debug\BitsExchange.pdb
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\BitsExchange\obj\Debug\BitsExchange.csprojResolveAssemblyReference.cache
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\BitsExchange\obj\Debug\BitsExchange.exe
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Operators-Expressions-and-Statements\BitsExchange\obj\Debug\BitsExchange.pdb

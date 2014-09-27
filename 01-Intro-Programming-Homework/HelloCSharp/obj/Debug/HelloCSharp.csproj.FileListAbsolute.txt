@@ -1,0 +1,8 @@
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.exe
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.pdb
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HelloCSharp\obj\Debug\HelloCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HelloCSharp\obj\Debug\HelloCSharp.exe
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HelloCSharp\obj\Debug\HelloCSharp.pdb
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.exe.CodeAnalysisLog.xml
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\HelloCSharp\bin\Debug\HelloCSharp.exe.lastcodeanalysissucceeded

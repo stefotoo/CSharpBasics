@@ -1,0 +1,6 @@
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\JulyMorningExam\02.LettersSymbolsNumbers\bin\Debug\02.LettersSymbolsNumbers.exe.config
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\JulyMorningExam\02.LettersSymbolsNumbers\bin\Debug\02.LettersSymbolsNumbers.exe
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\JulyMorningExam\02.LettersSymbolsNumbers\bin\Debug\02.LettersSymbolsNumbers.pdb
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\JulyMorningExam\02.LettersSymbolsNumbers\obj\Debug\02.LettersSymbolsNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\JulyMorningExam\02.LettersSymbolsNumbers\obj\Debug\02.LettersSymbolsNumbers.exe
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\JulyMorningExam\02.LettersSymbolsNumbers\obj\Debug\02.LettersSymbolsNumbers.pdb

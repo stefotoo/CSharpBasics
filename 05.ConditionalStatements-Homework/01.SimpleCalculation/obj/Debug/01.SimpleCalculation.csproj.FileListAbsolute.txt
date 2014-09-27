@@ -1,0 +1,9 @@
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\05.ConditionalStatements\01.SimpleCalculation\bin\Debug\01.SimpleCalculation.exe.config
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\05.ConditionalStatements\01.SimpleCalculation\bin\Debug\01.SimpleCalculation.exe
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\05.ConditionalStatements\01.SimpleCalculation\bin\Debug\01.SimpleCalculation.pdb
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\05.ConditionalStatements\01.SimpleCalculation\obj\Debug\01.SimpleCalculation.csprojResolveAssemblyReference.cache
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\05.ConditionalStatements\01.SimpleCalculation\obj\Debug\01.SimpleCalculation.exe
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\05.ConditionalStatements\01.SimpleCalculation\obj\Debug\01.SimpleCalculation.pdb
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\05.ConditionalStatements-Homework\01.SimpleCalculation\bin\Debug\01.SimpleCalculation.exe.config
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\05.ConditionalStatements-Homework\01.SimpleCalculation\obj\Debug\01.SimpleCalculation.exe
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\05.ConditionalStatements-Homework\01.SimpleCalculation\obj\Debug\01.SimpleCalculation.pdb

@@ -1,0 +1,6 @@
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\PrintASCII\bin\Debug\PrintASCII.exe.config
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\PrintASCII\bin\Debug\PrintASCII.exe
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\PrintASCII\bin\Debug\PrintASCII.pdb
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\PrintASCII\obj\Debug\PrintASCII.exe
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\PrintASCII\obj\Debug\PrintASCII.pdb
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\Primitive-Data-Types-and-Variables\PrintASCII\obj\Debug\PrintASCII.csprojResolveAssemblyReference.cache

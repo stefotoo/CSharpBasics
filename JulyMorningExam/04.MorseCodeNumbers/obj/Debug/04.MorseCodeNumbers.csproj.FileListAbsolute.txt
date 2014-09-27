@@ -1,0 +1,5 @@
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\JulyMorningExam\04.MorseCodeNumbers\bin\Debug\04.MorseCodeNumbers.exe.config
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\JulyMorningExam\04.MorseCodeNumbers\bin\Debug\04.MorseCodeNumbers.exe
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\JulyMorningExam\04.MorseCodeNumbers\bin\Debug\04.MorseCodeNumbers.pdb
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\JulyMorningExam\04.MorseCodeNumbers\obj\Debug\04.MorseCodeNumbers.exe
+C:\Users\Stefoto\Documents\Visual Studio 2013\Projects\JulyMorningExam\04.MorseCodeNumbers\obj\Debug\04.MorseCodeNumbers.pdb
